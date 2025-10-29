@@ -9,3 +9,5 @@ tornado==6.1
 beautifulsoup4==4.12.3
 lxml==5.3.0
 deep-translator==1.11.4
+imgkit==1.2.3
+
